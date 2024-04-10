@@ -1,0 +1,45 @@
+/* styles.css */
+
+/* Estilos para la imagen del logo */
+img.logo {
+  width: 100px; /* Ancho de la imagen */
+  height: auto; /* Altura automática para mantener la proporción */
+  float: left;
+  border-radius: 50%;
+}
+header {
+    overflow: hidden;
+}
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff; /* Blanco */
+    color: #000000; /* Negro */
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #000000; /* Negro */
+    color: #ffffff; /* Blanco */
+    padding: 20px;
+    text-align: center;
+  }
+  
+  nav {
+    background-color: #000000; /* Negro */
+    color: #ffffff; /* Blanco */
+    padding: 10px;
+    text-align: center;
+  }
+  
+  section {
+    padding: 20px;
+  }
+  
+  footer {
+    background-color: #000000; /* Negro */
+    color: #ffffff; /* Blanco */
+    padding: 20px;
+    text-align: center;
+  }
+  
